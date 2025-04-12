@@ -1,5 +1,5 @@
 
-import { Chef, UtensilsCrossed } from "lucide-react";
+import { UtensilsCrossed } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 interface LogoProps {
